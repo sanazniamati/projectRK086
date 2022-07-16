@@ -1,5 +1,5 @@
 {
-  "name": "projectrk065",
+  "name": "projectrk086",
   "version": "0.1.0",
   "private": true,
   "keywords": [
@@ -7,7 +7,7 @@
     "react-konva",
     "Image"
   ],
-  "description": "How to draw images on canvas with React",
+  "description": "How to drop image elements into a canvas with React?",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
